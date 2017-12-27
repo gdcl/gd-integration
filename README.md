@@ -2,4 +2,6 @@
 ## Integration Test Repository
 An integration project.
 
-Updated readme to test out branching and pull requests.
+Augmented and changed readme to test out branching and pull requests by another contributor. 
+
+
